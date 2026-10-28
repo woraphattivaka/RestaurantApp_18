@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RestaurantApp_18
 {
-    internal class Res
+    internal class Restaurant
     {
         public int Id { get; set; }
         public string Name { get; set; }
